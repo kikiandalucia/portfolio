@@ -1,0 +1,8 @@
+# 本地预览用的小服务器脚本，不部署
+serve.mjs
+
+# 原版 React 入口备份，不部署
+index.legacy.html
+
+# 原 React 打包产物（已由新站点取代），不部署
+yibazhan/
